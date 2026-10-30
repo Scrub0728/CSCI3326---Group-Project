@@ -1,0 +1,15 @@
+# Maven's generated build files
+target/
+
+# compiled Java files
+*.class
+
+# macOS files
+.DS_Store
+
+# local editor settings
+.idea/
+*.iml
+.classpath
+.project
+.settings/
